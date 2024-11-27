@@ -5,14 +5,7 @@ För att webben ska vara tillgänglig för alla finns standarder av olika slag. 
 Under workshopen kommer ni granska webbsidor utifrån standarder för webbtillgänglighet.
 
 ## Er uppgift 
-Under workshopen kommer ni att jobba i era studiegrupper och utföra tester utifrån webbstandarder för tillgänglighet. Ni ska granska den webbplats er grupp blivit tilldelad enligt listan:
-
-* Diamond Nerds: https://www.rf.se/
-* Speedy Scientists: http://www.trafikverket.se/
-* Pink Rabbits: http://www.skatteverket.se/
-* Mad Zebras: https://www.folkuniversitetet.se/
-* Bionic Dolphins: https://sok.se
-* Crypto Poopers: http://paralympics.se/
+Under workshopen kommer ni att jobba i grupper med ca 5 i varje grupp (ni blir tilldelad en grupp under lektionen) och utföra tester utifrån webbstandarder för tillgänglighet. Välj vilken webbplats ni vill testa i gruppen. 
 
 ## Tillvägagångssätt
 
@@ -27,6 +20,5 @@ WCAG 2.2 hittar ni [här](https://www.w3.org/TR/WCAG22/)
 ### Utvärdera webbplatsen manuellt mot valda kriterier och krav:
 Notera att ni ska göra utvärderingen manuellt där det går, men om ni vill kan ni verifiera er manuella utvärdering med något verktyg. 
 
-## Examinerande Seminarium 21/11
-Under torsdagens förmiddagspass kommer ni delas in i tvärgrupper där ni i tur och ordning visar upp vad ni kommit fram till. Gå igenomm punkt för punkt och demonstrera hur webbplatsen möter / inte möter kraven om tillgänglighet.
-Diskutera även vad man skulle kunna göra annorlunda för att lösa eventuella problem.
+## Samling och delning i helklass
+Kl 16 samlas vi i helklass och varje grupp kommer få dela med resten av klassen vad ni kommit fram till och hur ni gått tillväga för att testa, samt värdefulla insikter ni fått.
